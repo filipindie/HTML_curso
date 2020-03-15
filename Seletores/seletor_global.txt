@@ -1,0 +1,6 @@
+ <style>
+       p{
+           color:hotpink;
+           font-size: 1em;
+        }
+</style>

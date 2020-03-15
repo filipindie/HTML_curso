@@ -1,0 +1,6 @@
+<p class="pagina">
+
+.pagina{
+    color:green;
+    font-size: 1em;
+}
