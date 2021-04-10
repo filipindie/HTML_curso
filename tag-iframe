@@ -1,0 +1,11 @@
+<div>
+    <h3>Previsão do tempo</h3>
+
+    <p>Veja o como está o clima hoje.</p>
+
+    <iframe
+      src="https://www.accuweather.com/"
+      width="600" height="450"
+    > </iframe>
+
+</div>
